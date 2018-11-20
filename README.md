@@ -1,5 +1,5 @@
 # Template Projet
 
 **je découvre Github**
-_ _ ça m'a l'air bien_ _
-_ on va voir_
+__ ça m'a l'air bien__
+_on va voir_
