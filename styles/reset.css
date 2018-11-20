@@ -1,0 +1,26 @@
+html{
+	height: 100%; /*permet d'utiliser toute la hauteur du navigateur dès le début*/
+}
+
+body{
+	height: 100%; /*permet d'utiliser toute la hauteur du navigateur dès le début*/
+	margin: 0; /* colle le body ou le bord du navigateur*/
+}
+
+*{
+	box-sizing: border-box; /* empêche le padding d'agrandir l'élément*/
+}
+
+/* HELPERS*/
+
+/*.mg0{
+	margin:0;
+}
+
+.pd0{
+	padding: 0;
+}
+
+.debeug, .debug *{
+	background-color: rgba(0,0,0,0.1);
+}*/
