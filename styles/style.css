@@ -1,0 +1,18 @@
+body{
+	color:#fff;/* cf=roure, 59=vert et f0=bleu*/
+	background-color:#555; /*couleur de fond*/
+	font-size:30px; /*taille de typo*/
+	font-weight: bold; /*graisse de typo*/
+	font-style:italic; /*italic ou normal*/
+	text-decoration:underline; /*souligne tout le text*/
+	text-align:justify; /*left/center/right/justify (alignement de text)*/
+	font-family:pacifico; /*modifier la police du text*/
+}
+h1{
+	font-weight:normal; /*les titres en typo normal*/
+	line-height:50px; /*hauteur de ligne (l'intelignage)*/
+	text-indent:50px; /*décalage de la 1ere ligne de texte*/
+}
+a{
+	font-weight:none; /*enleve tous les soulignements par défaut*/
+}
